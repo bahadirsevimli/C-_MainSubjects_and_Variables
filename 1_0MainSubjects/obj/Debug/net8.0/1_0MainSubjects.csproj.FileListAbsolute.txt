@@ -1,0 +1,4 @@
+/Users/bahadirsevimli/Desktop/Web Development Projects/C#/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadirsevimli/Desktop/Web Development Projects/C#/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.AssemblyInfoInputs.cache
+/Users/bahadirsevimli/Desktop/Web Development Projects/C#/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.AssemblyInfo.cs
+/Users/bahadirsevimli/Desktop/Web Development Projects/C#/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.csproj.CoreCompileInputs.cache

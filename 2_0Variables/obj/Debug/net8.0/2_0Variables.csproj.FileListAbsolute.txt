@@ -1,0 +1,14 @@
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/bin/Debug/net8.0/2_0Variables
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/bin/Debug/net8.0/2_0Variables.deps.json
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/bin/Debug/net8.0/2_0Variables.runtimeconfig.json
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/bin/Debug/net8.0/2_0Variables.dll
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/bin/Debug/net8.0/2_0Variables.pdb
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.AssemblyInfoInputs.cache
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.AssemblyInfo.cs
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.csproj.CoreCompileInputs.cache
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.dll
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/refint/2_0Variables.dll
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.pdb
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/2_0Variables.genruntimeconfig.cache
+/Users/bahadirsevimli/Desktop/C#/2_0Variables/obj/Debug/net8.0/ref/2_0Variables.dll

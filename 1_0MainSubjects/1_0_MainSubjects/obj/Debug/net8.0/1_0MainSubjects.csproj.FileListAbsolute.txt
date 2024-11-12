@@ -1,0 +1,14 @@
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/bin/Debug/net8.0/1_0MainSubjects
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/bin/Debug/net8.0/1_0MainSubjects.deps.json
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/bin/Debug/net8.0/1_0MainSubjects.runtimeconfig.json
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/bin/Debug/net8.0/1_0MainSubjects.dll
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/bin/Debug/net8.0/1_0MainSubjects.pdb
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.AssemblyInfoInputs.cache
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.AssemblyInfo.cs
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.csproj.CoreCompileInputs.cache
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.dll
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/refint/1_0MainSubjects.dll
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.pdb
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/1_0MainSubjects.genruntimeconfig.cache
+/Users/bahadirsevimli/Desktop/1_0MainSubjects/obj/Debug/net8.0/ref/1_0MainSubjects.dll
